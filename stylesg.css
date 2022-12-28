@@ -1,0 +1,48 @@
+
+body
+{
+    background-color: #202124;
+}
+
+.interfaz
+{ /*border: 2px solid white;*/
+ text-align: right;
+}
+
+.config{
+    /*border: solid  greenyellow;*/
+    display: inline-block ;
+    color: white;
+    font-family: 'Courier New', Courier, monospace  ;
+
+}
+
+.interaccion {
+    /*border: solid greenyellow; */
+    width: 50%;
+    margin: auto;
+    height: 70%;
+    margin-top: 30px;
+    text-align: center;
+    
+}
+
+
+.logo{
+    height: 200px;
+    width: 400px;
+    /*border: solid pink; */
+   margin: auto;
+
+}
+
+.botbuscador{
+    /*border: 3px solid darkblue; */
+    
+    margin-bottom: 10px;
+}
+
+.boton{
+  /*  border: solid skyblue; */
+    margin-bottom: 10px;
+}
